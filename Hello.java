@@ -24,6 +24,19 @@ class Hello
         boolean bool = true;
 
         //Assignment Operators
+
+
+        //while
+
+        
+        int i = 1;
+
+        while (5>=i)
+        {
+            System.out.println("HI" + i);
+            i++;
+        }
+    
         
     }
 }
