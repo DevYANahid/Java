@@ -29,16 +29,20 @@ class Hello
         //while
 
         
-        int i = 1;
+        // int i = 1;
 
-        while (5>=i)
+        // while (5>=i)
 
         
-        {
-            System.out.println("HI" + i);
-            i++;
-        }
+        // {
+        //     System.out.println("HI" + i);
+        //     i++;
+        // }
     
-        
+    for(int i=1; i<=4;i++)
+    {
+            System.out.println( "hi" + i);
     }
+    }
+    
 }
