@@ -50,6 +50,10 @@ class Hello
 
 //recursion end
 
+
+
+//java func
+
 //next day
 
 //==============Java OOP ======================//
