@@ -17,7 +17,13 @@ class Hello
             {
                 System.out.println("out" + i);
             }
+            for(int i=1; i<=5; i++)
+            {
+                System.out.println("out" + i);
+            }
     }
+    }
+    
 }
 
 
